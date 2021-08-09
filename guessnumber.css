@@ -1,0 +1,29 @@
+body{
+    background-color:darkgoldenrod;
+    text-align:center;
+    margin:150px;
+    font-size:2em;
+    color:white;
+}
+.textinput{
+    border: 2px black solid;
+    border-radius: 10px;
+    height:50px;
+    width:250px;
+    font-size: 1.2em;
+    text-align:right;
+}
+.inpbutton{
+    height:50px;
+    width:200px;
+    /* color:white; */
+    border: 2px solid green;
+    font-size: 25px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.results{
+    color:black;
+    font-weight: bolder;
+    
+}
